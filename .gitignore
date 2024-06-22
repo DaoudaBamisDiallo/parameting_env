@@ -1,0 +1,2 @@
+# list des fichier à ne pas suivre par git
+.venv/
